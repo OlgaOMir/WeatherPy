@@ -1,3 +1,6 @@
+#remove config.py to ensure no API keys are shared
+config.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
